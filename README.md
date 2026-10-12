@@ -35,8 +35,8 @@
 
 ## 🔗 Project Links
 
-* **GitHub Repository:** [https://github.com/Perseus2700/Assignment-5](https://github.com/Perseus2700/Assignment-5)
-* **Live Application:** [https://github.com/Perseus2700/Assignment-5](https://github.com/Perseus2700/Assignment-5) *(Deployable on Vercel / Netlify / Surge)*
+* **GitHub Repository:** [https://github.com/mahfuzhasan2700/Assignment-5](https://github.com/mahfuzhasan2700/Assignment-5)
+* **Live Application:** [https://github.com/mahfuzhasan2700/Assignment-5](https://github.com/mahfuzhasan2700/Assignment-5) *(Deployable on Vercel / Netlify / Surge)*
 * **Course & Cohort:** Programming Hero — Batch 14 (Assignment 5)
 
 ---
@@ -201,7 +201,7 @@ Follow these step-by-step instructions to set up, run, and build the project loc
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Perseus2700/Assignment-5.git
+git clone https://github.com/mahfuzhasan2700/Assignment-5.git
 cd Assignment-5/Assignment
 ```
 
@@ -450,7 +450,7 @@ When clicked, `handleAddToStack(tech)` runs in [`App.jsx`](src/App.jsx), updatin
 
 ## 👨‍💻 Author & Acknowledgements
 
-* **Developer:** [Perseus2700](https://github.com/Perseus2700)
+* **Developer:** [mahfuzhasan2700 (Perseus2700)](https://github.com/mahfuzhasan2700)
 * **Program:** Programming Hero — Batch 14 Web Development Course
 * **Design Reference:** Figma & Penpot DevStack Specification
 
